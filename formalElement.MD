@@ -1,3 +1,4 @@
+#moto: bigger risk- bigger succes
 # 🎮שם המשחק: — Special Soldier
 
 ![sketch image](https://github.com/LRR-Game-Dev-Project/special_soldier/blob/main/%D7%A1%D7%A7%D7%99%D7%A6%D7%94.png)
