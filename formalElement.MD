@@ -97,7 +97,7 @@
 ### 1) Secret Commando : Ghost Recon  
 
   ![sketch image](https://thekingofgrabs.com/wp-content/uploads/2021/10/secret-commando-master-system-wide.png?w=1038&h=576&crop=1)
-- **קישור לחנות:** [Google Play](https://play.google.com/store/apps/details?hl=en&id=com.peekjoy.secretagent) :contentReference[oaicite:2]{index=2}  
+- **קישור לחנות:** [Google Play](https://play.google.com/store/apps/details?hl=en&id=com.peekjoy.secretagent)  
 - **תיאור קצר:** משחק לוחם מובחר (commando) שמבצע משימות חודרות בשטח אויב, עם דגש על התגנבות והימנעות מגילוי. :contentReference[oaicite:3]{index=3}  
 - **מה אפשר ללמוד ממנו:** יש דגש על חייל בודד במשימה מיוחדת, שדרוגים וציוד.  
 - **נייחד את המשחק שלנו:**  
@@ -112,8 +112,10 @@
 ---
 
 ### 2) Mission Infiltration: Free Shooting Games 2019  
+
+  ![sketch image](https://i.ytimg.com/vi/A7skq_oWAzw/maxresdefault.jpg)
   
-- **קישור:** [Softonic](https://mission-infiltration-free-shooting-games-2019.en.softonic.com/android) :contentReference[oaicite:6]{index=6}  
+- **קישור:** [Softonic](https://mission-infiltration-free-shooting-games-2019.en.softonic.com/android) 
 - **תיאור קצר:** משחק חודרנות למבנה אויב עם נשק ייעודי – שחקן צריך להיכנס לבסיס אויב בלי להתגלות, ולהשלים משימה.  
 - **מה אפשר ללמוד ממנו:** הקונספט של התגנבות/חדירה קיים, ויש נשק ומטרה.  
 - **כיצד נייחד את המשחק שלנו:**  
@@ -127,8 +129,8 @@
 
 ### 3) Team SIX ‑ Armored Troops  
 
-  
-- **קישור:** [Softonic](https://team-six-armored-troops.en.softonic.com/android) :contentReference[oaicite:9]{index=9}  
+  ![sketch image](https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/948d07c0-5829-4745-b9f1-6f03e688f037/1213307366/team-six-armored-troops-screenshot)
+- **קישור:** [Softonic](https://team-six-armored-troops.en.softonic.com/android) 
 - **תיאור קצר:** משחק פעולה/אסטרטגיה בו שחקן שולט בצוות לוחמים במשימות חדירה, טנקים ועוד – נשק כבד ועימותים גדולים.  
 - **מה אפשר ללמוד ממנו:** שימוש בצוות, נשקים מגוונים וטנקים – אבל פחות הדגש על הלוחם הבודד והמשימה החשאית.  
 - **כיצד לייחד את המשחק שלנו:**  
