@@ -95,7 +95,8 @@
 ## 🎮 משחקים דומים
 
 ### 1) Secret Commando : Ghost Recon  
-  
+
+  ![sketch image](https://thekingofgrabs.com/wp-content/uploads/2021/10/secret-commando-master-system-wide.png?w=1038&h=576&crop=1)
 - **קישור לחנות:** [Google Play](https://play.google.com/store/apps/details?hl=en&id=com.peekjoy.secretagent) :contentReference[oaicite:2]{index=2}  
 - **תיאור קצר:** משחק לוחם מובחר (commando) שמבצע משימות חודרות בשטח אויב, עם דגש על התגנבות והימנעות מגילוי. :contentReference[oaicite:3]{index=3}  
 - **מה אפשר ללמוד ממנו:** יש דגש על חייל בודד במשימה מיוחדת, שדרוגים וציוד.  
@@ -126,7 +127,6 @@
 
 ### 3) Team SIX ‑ Armored Troops  
 
-::contentReference[oaicite:8]{index=8}
   
 - **קישור:** [Softonic](https://team-six-armored-troops.en.softonic.com/android) :contentReference[oaicite:9]{index=9}  
 - **תיאור קצר:** משחק פעולה/אסטרטגיה בו שחקן שולט בצוות לוחמים במשימות חדירה, טנקים ועוד – נשק כבד ועימותים גדולים.  
